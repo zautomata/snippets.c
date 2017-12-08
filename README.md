@@ -1,2 +1,2 @@
 # snippets.c
-a collection of C snippets from various books
+A collection of C Style9 POSIX snippets from various books;
